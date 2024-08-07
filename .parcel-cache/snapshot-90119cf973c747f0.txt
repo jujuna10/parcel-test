@@ -1,7 +1,9 @@
-10448
-55/home/jujuna/Desktop/parcel/dist/parcel.59712999.js.map1723055607694409058 0
-51/home/jujuna/Desktop/parcel/dist/parcel.59712999.js1723055607694409058 0
-50/home/jujuna/Desktop/parcel/dist/index.44983732.js1723055607686408441 0
+10446
+55/home/jujuna/Desktop/parcel/dist/parcel.59712999.js.map1723055731987105584 0
+50/home/jujuna/Desktop/parcel/dist/index.44983732.js1723055731983105331 0
+51/home/jujuna/Desktop/parcel/dist/parcel.59712999.js1723055731983105331 0
+43/home/jujuna/Desktop/parcel/dist/index.html1723055731983105331 0
+32/home/jujuna/Desktop/parcel/dist1723055731979105078 1
 40/home/jujuna/Desktop/parcel/package.json1723055599769793381 0
 34/home/jujuna/Desktop/parcel/assets1723050878903980544 1
 42/home/jujuna/Desktop/parcel/src/index.html1723051407352716705 0
@@ -3639,7 +3641,6 @@
 121/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/caniuse-lite/data/features/input-datetime.js1723054117591244348 0
 62/home/jujuna/Desktop/parcel/node_modules/@parcel/utils/LICENSE1723054116963250438 0
 133/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/@parcel/optimizer-htmlnano/node_modules/csso/lib/replace1723054117439245821 1
-50/home/jujuna/Desktop/parcel/dist/index.9bffb773.js1723055242371400885 0
 114/home/jujuna/Desktop/parcel/node_modules/@parcel/fs/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest3.c1723054117495245278 0
 97/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/import-fresh/license1723054116871251330 0
 112/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/caniuse-lite/data/features/xhtml.js1723054117667243610 0
@@ -3722,7 +3723,6 @@
 148/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/syntax/atrule/media.js1723054117503245201 0
 98/home/jujuna/Desktop/parcel/node_modules/@parcel/core/node_modules/caniuse-lite/data/regions/MR.js1723054117639243881 0
 101/home/jujuna/Desktop/parcel/node_modules/@parcel/core/node_modules/caniuse-lite/data/features/ruby.js1723054117647243804 0
-43/home/jujuna/Desktop/parcel/dist/index.html1723055242371400885 0
 108/home/jujuna/Desktop/parcel/node_modules/@parcel/core/node_modules/caniuse-lite/data/features/pointerlock.js1723054117647243804 0
 112/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/caniuse-lite/data/regions/alt-na.js1723054117303247141 0
 85/home/jujuna/Desktop/parcel/node_modules/@parcel/core/node_modules/clone/package.json1723054116867251370 0
@@ -3749,7 +3749,6 @@
 133/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-dev-server/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c1723054117431245900 0
 100/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/domhandler/package.json1723054117023249856 0
 99/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/nth-check/lib/index.js1723054117023249856 0
-32/home/jujuna/Desktop/parcel/dist1723055242375401462 1
 87/home/jujuna/Desktop/parcel/node_modules/@parcel/package-manager/node_modules/@mischnic1723054112527293467 1
 144/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/convertPathData.js1723054117303247141 0
 79/home/jujuna/Desktop/parcel/node_modules/@parcel/utils/node_modules/detect-libc1723054117007250011 1
@@ -8914,7 +8913,7 @@
 108/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@lmdb/lmdb-linux-x64/package.json1723054116883251215 0
 94/home/jujuna/Desktop/parcel/node_modules/@parcel/fs/node_modules/@parcel/cache/lib/IDBCache.js1723054117091249196 0
 95/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/profiler/src1723054117159248537 1
-54/home/jujuna/Desktop/parcel/dist/index.44983732.js.map1723055607690408750 0
+54/home/jujuna/Desktop/parcel/dist/index.44983732.js.map1723055731987105584 0
 104/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/profiler/src/index.js1723054116991250166 0
 117/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/profiler/lib/SamplingProfiler.d.ts1723054117199248150 0
 106/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/profiler/lib/types.d.ts1723054117219247955 0
@@ -8971,7 +8970,6 @@
 115/home/jujuna/Desktop/parcel/node_modules/@parcel/package-manager/node_modules/@parcel/cache/lib/IDBCache.browser.js1723054117067249429 0
 146/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/workers/test/integration/workerfarm/resolve-shared-reference.js1723054117339246791 0
 136/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/workers/test/integration/workerfarm/reverse-handle.js1723054117343246753 0
-54/home/jujuna/Desktop/parcel/dist/index.9bffb773.js.map1723055242375401462 0
 132/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/workers/test/integration/workerfarm/master-sum.js1723054117299247179 0
 139/home/jujuna/Desktop/parcel/node_modules/@parcel/reporter-cli/node_modules/@parcel/workers/test/integration/workerfarm/master-process-id.js1723054117295247218 0
 108/home/jujuna/Desktop/parcel/node_modules/@parcel/config-default/node_modules/caniuse-lite/data/regions/BR.js1723054117447245744 0
